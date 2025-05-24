@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Alvin-Hoyeong-Kim
-- 👀 I'm a dedicated Data Analyst and RPA Developer with a passion for leveraging technology to drive insights and operational efficiency.
-- My unique blend of skills in data analysis and Robotic Process Automation allows me to not only extract valuable insights from complex datasets but also implement automated solutions that significantly streamline business processes.
+- 👀 I'm looking to connect with forward-thinking organizations that value data-driven decision making and innovative automation solutions. Let's explore how we can transform your business processes and unlock new levels of efficiency together!
 - 🌱 I’m currently learning how to coach volleyball on the side as well more SQL scripts!
 - 📫 How to reach me @alvinkim16@gmail.com 
 - 😄 Pronouns: He/Him/His
